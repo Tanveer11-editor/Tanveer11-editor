@@ -64,15 +64,15 @@ projects, and grow as a versatile software developer.
 
 <p align="center">
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:(https://mail.google.com/mail/u/0/#inbox)">
   <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
-<a href="YOUR_PORTFOLIO_LINK">
+<a href="(https://portfolio-tnvr.vercel.app)">
   <img src="https://img.shields.io/badge/PROJECT-000000?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
-<a href="YOUR_LINKEDIN">
+<a href="(https://www.linkedin.com/in/mohammed-tanveer-kareemullah-33b91a2ab/)">
   <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
